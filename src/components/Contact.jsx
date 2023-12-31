@@ -122,16 +122,6 @@ const Contact = () => {
         className="xl:flex-1 xl:h-auto md:h-[550px] h-[350px]"
       >
 
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<div class="inline-block border border-gray-100 p-6 rounded-lg hover:shadow-lg transition duration-10">
-  <div class="hover:opacity-50">
-    <img src="https://sahand.storage.iran.liara.space/hedospace/picture/31260449_7814988.jpg" alt="demo computer game" class="max-w-360 max-h-450 rounded-lg"></img>
-  </div>
-</div>
-
       </motion.div>
     </div>
   );
